@@ -19,7 +19,7 @@ function App() {
       <Switch>
         <Route path="/" component={HomePage} exact />
         <Route path="/:id" component={SubCategories} exact />
-        <Route path=":id/:subId" component={Products} exact />
+        <Route path="/products/:subId" component={Products} exact />
       </Switch>
     </>
   );
