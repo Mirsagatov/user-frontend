@@ -1,0 +1,43 @@
+.subcategories-page {
+  width: 1440px;
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.subcategories-list {
+  width: auto;
+  padding: 0px 20px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.subcategory-item {
+  width: 400px;
+  padding: 8px 12px;
+  border-radius: 5px;
+  border: 2px solid black;
+}
+
+.subcategory-item-link {
+  width: 100%;
+}
+
+.subcategory-logo {
+  width: 100%;
+}
+
+.subcategory-title {
+  color: black;
+}
+
+.btn {
+  width: 160px;
+  margin: 20px 700px;
+  padding: 10px 15px;
+  border: 2px solid black;
+  border-radius: 20px;
+  background-color: white;
+  font-weight: bold;
+}/*# sourceMappingURL=SubCategories.css.map */
